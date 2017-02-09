@@ -1,2 +1,7 @@
-# git-guidelines
-Our used organizing documents and stylequide
+# Git Guidelines
+
+Our used organizing documents and stylequides.
+
+## Table of contents
+
+- [Tagging styleguide](Tagging-styleguide.md)
