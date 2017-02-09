@@ -44,6 +44,9 @@ Issues that make the product feel broken. High Priority, especially if its prese
 ### `Mindless`
 Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
 
+### `Experience`
+Affect user’s comprehension, or overall enjoyment of the product. These can be both opportunities and “UX bugs”.
+
 ### `Environment`
 Server environment. With good QA, you'll identify issues on test and staging deployments.
 
