@@ -1,6 +1,6 @@
 # Git Guidelines
 
-Our used organizing documents and stylequides.
+Our used organizing documents and styleguides.
 
 ## Table of contents
 
