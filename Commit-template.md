@@ -38,3 +38,5 @@ if you saved it to your home folder, try: git config --global commit.template ~/
 
 [SIGNED OFF]: :name <:email>
 ```
+
+:author and :email needs to be replaced by your name and email address.
